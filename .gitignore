@@ -1,0 +1,10 @@
+# Hide implementation details
+thumbnail_generator.py
+.github/workflows/
+.github/scripts/
+README_template.md
+
+# Keep the generated content visible
+!thumbnails/
+!validated_streams.json
+!README.md 
