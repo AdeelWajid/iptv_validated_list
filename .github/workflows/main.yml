@@ -77,6 +77,21 @@ jobs:
               except:
                   return False
 
+          def generate_m3u(streams):
+              lines = ['#EXTM3U']
+              for s in streams:
+                  title = s.get('title', 'Untitled')
+                  quality = s.get('quality')
+                  label = f'{title} ({quality})' if quality else title
+                  lines.append(f'#EXTINF:-1,{label}')
+                  if s.get('user_agent'):
+                      lines.append(f'#EXTVLCOPT:http-user-agent={s["user_agent"]}')
+                  if s.get('referrer'):
+                      lines.append(f'#EXTVLCOPT:http-referrer={s["referrer"]}')
+                  lines.append(s['url'])
+              with open('validated_streams.m3u', 'w') as f:
+                  f.write('\n'.join(lines) + '\n')
+
           print(f'Validating URLs from {SOURCE_URL}')
           response = requests.get(SOURCE_URL)
           data = response.json()
@@ -93,18 +108,20 @@ jobs:
                   if idx % 50 == 0:
                       with open('validated_streams.json', 'w') as f:
                           json.dump(valid_streams, f, indent=2)
-                      os.system('git add validated_streams.json')
+                      generate_m3u(valid_streams)
+                      os.system('git add validated_streams.json validated_streams.m3u')
                       os.system(f'git commit -m \"Progress: {idx}/{total}\"')
                       os.system('git pull --rebase --strategy-option=ours')
                       os.system('git push')
 
           with open('validated_streams.json', 'w') as f:
               json.dump(valid_streams, f, indent=2)
+          generate_m3u(valid_streams)
           "
 
       - name: Commit and Push Final Results
         run: |
-          git add validated_streams.json || true
+          git add validated_streams.json validated_streams.m3u || true
           git commit -m "Final update: $(date -u)" || true
           git pull --rebase --strategy-option=ours || true
           git push || true
