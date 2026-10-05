@@ -1,110 +1,62 @@
-name: Validate Stream URLs
+name: Validate streams
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
     inputs:
       timeout:
-        description: 'URL validation timeout (seconds)'
-        required: true
-        default: '10'
-        type: number
-      check_all:
-        description: 'Validate all URLs (slower but thorough)'
-        required: true
-        default: true
-        type: boolean
-      source_url:
-        description: 'JSON source URL'
-        required: true
-        default: 'https://iptv-org.github.io/api/streams.json'
+        description: "Per-request timeout (seconds)"
+        default: "10"
         type: string
+      workers:
+        description: "Concurrent checks"
+        default: "100"
+        type: string
+      force:
+        description: "Write results even if far fewer streams pass than last run"
+        default: false
+        type: boolean
 
 permissions:
   contents: write
 
-jobs:
-  validate-urls:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+concurrency:
+  group: validate-streams
+  cancel-in-progress: false
 
-      - name: Setup Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+        run: pip install -r requirements.txt
 
-      - name: Full Validation
+      - name: Validate streams
         env:
-          INPUT_TIMEOUT: ${{ inputs.timeout || '10' }}
-          INPUT_CHECK_ALL: ${{ inputs.check_all || 'true' }}
-          INPUT_SOURCE_URL: ${{ inputs.source_url || 'https://iptv-org.github.io/api/streams.json' }}
+          TIMEOUT: ${{ inputs.timeout || '10' }}
+          WORKERS: ${{ inputs.workers || '100' }}
+          FORCE: ${{ inputs.force && '--force' || '' }}
+        run: python validate.py --timeout "$TIMEOUT" --workers "$WORKERS" $FORCE
+
+      - name: Commit results
         run: |
-          python -c "
-          import json
-          import requests
-          import os
-          from urllib.parse import urlparse
-          from datetime import datetime
-
-          TIMEOUT = int(os.getenv('INPUT_TIMEOUT', '10'))
-          CHECK_ALL = os.getenv('INPUT_CHECK_ALL', 'true').lower() == 'true'
-          SOURCE_URL = os.getenv('INPUT_SOURCE_URL')
-
-          def is_valid_url(url):
-              try:
-                  parsed = urlparse(url)
-                  if not all([parsed.scheme, parsed.netloc]):
-                      return False
-
-                  if CHECK_ALL:
-                      response = requests.head(url, timeout=TIMEOUT, allow_redirects=True)
-                      return response.status_code == 200
-                  return True
-              except:
-                  return False
-
-          print(f'Validating URLs from {SOURCE_URL}')
-          response = requests.get(SOURCE_URL)
-          data = response.json()
-
-          valid_streams = []
-          total = len(data)
-
-          for idx, stream in enumerate(data, 1):
-              url = stream.get('url', '')
-              print(f'Checking {idx}/{total}: {url}')
-              if is_valid_url(url):
-                  valid_streams.append(stream)
-
-                  if idx % 50 == 0:
-                      with open('validated_streams.json', 'w') as f:
-                          json.dump(valid_streams, f, indent=2)
-                      os.system('git add validated_streams.json')
-                      os.system(f'git commit -m \"Progress: {idx}/{total}\"')
-                      os.system('git pull --rebase --strategy-option=ours')
-                      os.system('git push')
-
-          with open('validated_streams.json', 'w') as f:
-              json.dump(valid_streams, f, indent=2)
-          "
-
-      - name: Commit and Push Final Results
-        run: |
-          git add validated_streams.json || true
-          git commit -m "Final update: $(date -u)" || true
-          git pull --rebase --strategy-option=ours || true
-          git push || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A validated_streams.json validation_stats.json playlist.m3u playlists
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          working=$(python -c "import json; print(json.load(open('validation_stats.json'))['working_streams'])")
+          git commit -m "Update streams: ${working} working ($(date -u +%Y-%m-%d))"
+          git pull --rebase
+          git push
