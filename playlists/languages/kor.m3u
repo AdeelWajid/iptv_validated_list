@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="MBCAmerica.us@SD" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture;Entertainment;Music",MBC America (1080p)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" group-title="Education",EBS 1 (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png" group-title="Education",EBS 2 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSEnglish.kr@SD" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E (400p) [Not 24/7]
@@ -26,18 +26,18 @@ http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1 tvg-id="ABN.kr@SD" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="ArirangRadio.kr@SD" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="General",Arirang Radio (720p)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World (720p)
 #EXTVLCOPT:http-referrer=https://cinerama.uz/
 https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:-1 tvg-id="KCTV.kr@SD" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV 광주 CH05 (720p) [Not 24/7]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="General",Korean Central Television (1080p) [Not 24/7]
-https://live.koryocdn.org/kctv/index.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="General",Korean Central Television (KCTV) (1080p) [Not 24/7]
+https://stream.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="General",Korean Central Television (KCTV) (576p)
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36
-https://streamer.nknews.org/tvhls/stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://streamer.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="HLANDTV.kr@SD" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="General",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAODTV.kr@SD" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="General",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
@@ -79,10 +79,6 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GugakTV.kr@SD" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",GugakTV 국악방송 (1080p)
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KpopTVPlay.br@SD" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Music",KpopTV Play (576p)
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:-1 tvg-id="SKPop.us@HD" tvg-logo="https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png" group-title="Music;Kids",S KPop! (480p)
-https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 #EXTINF:-1 tvg-id="GugbangTV.kr@SD" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BBSTV.kr@SD" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Religious",BBS Buddhist Broadcasting (1080p)

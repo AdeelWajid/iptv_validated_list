@@ -2,9 +2,11 @@
 #EXTINF:-1 tvg-id="SuperscreenTV.ng@SD" tvg-logo="https://i.imgur.com/uTNmSWE.png" group-title="Culture;Family",Superscreen TV (412p)
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us@SD" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entertainment;Family",Estrella Games (1080p)
-https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="SowetoTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="Entertainment;Family",Soweto TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1KZNTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;Family;General",1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TshwaneTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment;Family;General",Tshwane TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="Family",6 Wise Tv (720p)
@@ -21,6 +23,10 @@ http://190.93.224.42/IPE/index.m3u8
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="EmanTv.iq@HD" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="Family",EmanTv (1080p)
 https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="Family",Hallmark Channel (720p) [Geo-blocked]
+http://41.205.93.154/HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America (1080p)
+http://45.171.64.30:6060/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Family",MBC 5 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1 tvg-id="Mixkurdy.iq@HD" tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="Family",Mixkurdy (1080p)
@@ -32,11 +38,12 @@ https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East" tvg-logo="https://i.imgur.com/qwJUawJ.png" group-title="Family",Showtime Family Zone (720p)
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family",STS (576p)
-http://176.118.197.101/CTC/index.m3u8
+http://flussonic.linkintel.ru/sts/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@HD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family",STS HD (1080p)
 http://stream.mcquack.net/138/index.m3u8
-#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg/1920px-%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg.png" group-title="Family",STS Love (576p)
-http://stream.mcquack.net/183/index.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg/1920px-%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg.png" group-title="Family",STS Love (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Spain" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@India" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective
@@ -50,7 +57,7 @@ https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Australia" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective International (720p)
 https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@US" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective International (720p)
-https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
+https://the-pet-collective-international-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Mexico" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective International (720p)
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Sweden" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective Sweden

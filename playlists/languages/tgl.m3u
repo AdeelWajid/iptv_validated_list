@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CLTV36.ph@SD" tvg-logo="https://i.imgur.com/2fGhl7q.png" group-title="General",CLTV 36 (720p) [Not 24/7]
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="General",FilAmTV Network (1080p)
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@HD" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="General",Mindanow Network TV (1080p)
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-id="VegasLifeTV.us@HD" tvg-logo="https://i.imgur.com/G7lONcu.png" group-title="General",Vegas Life TV (1080p)
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-id="GodStandsTV.pk@Tagalog" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Religious",God Stands TV Tagalog
@@ -9,5 +15,7 @@ https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph@SD" tvg-logo="https://i.imgur.com/iC11uWK.png" group-title="Religious",INC TV (1080p)
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD" tvg-logo="https://i.imgur.com/q3UToRM.png" group-title="Travel",Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-id="SMNI.ph@SD" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="Undefined",SMNI (720p)
 https://stream.kdlc.click/hls/0/stream.m3u8

@@ -23,6 +23,9 @@ https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
 #EXTINF:-1 tvg-id="SVPlus.sv@SD" tvg-logo="https://i.imgur.com/bCcnLVL.png" group-title="General",SV+ (720p)
 http://186.33.26.18:8000/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="TVCNetwork.sv@SD" tvg-logo="https://i.imgur.com/S1xiWB3.png" group-title="General",TVC Network (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 #EXTINF:-1 tvg-id="TVOCanal23.sv@SD" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="General",TVO Canal 23 (720p)
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 #EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religious",Agape TV (720p)

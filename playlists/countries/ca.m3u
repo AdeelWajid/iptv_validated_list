@@ -27,8 +27,10 @@ https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@AU" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary",NatureTime (1080p)
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca@SD" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary",NatureTime Finland (1080p)
-https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@SD" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary",NatureTime (1080p)
+https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@UK" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="Documentary",NatureTime (1080p)
+https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca@CA" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/10/crimetime-logo-white.png" group-title="Documentary",Total Crime (1080p)
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD" tvg-logo="https://i.imgur.com/VfofmZZ.png" group-title="Education;Kids",Knowledge Network (720p) [Geo-blocked]
@@ -43,8 +45,8 @@ https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Entertainment",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
-#EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="General",Azstar TV HD (1080p)
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="General",Az Star TV (1080p)
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DesheBidesheTV.ca@SD" tvg-logo="https://i.imgur.com/Ek1Ohj6.png" group-title="General",DesheBideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="General",Deshi TV (720p)
@@ -59,9 +61,8 @@ https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_o
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-id="SohailTV.ca@SD" tvg-logo="https://i.ibb.co/dtzjKfT/Sohail-TV.png" group-title="General",Sohail TV (1080p)
 https://iptv.sohailtv.com/sohail/playlist/index.m3u8
-#EXTINF:-1 tvg-id="NewChannelPop.ca@SD" tvg-logo="https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920" group-title="Kids",New Channel Pop! (480p)
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
-https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.ca@SD" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle.TV (1080p)
+https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOKids.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" group-title="Kids",TVOKids (720p)
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca@SD" tvg-logo="https://i.imgur.com/xKXs6ER.png" group-title="Legislative",Ontario Parliamentary Network (720p)
@@ -136,11 +137,8 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_ch
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Today's Latin Pop (1080p)
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="NewChannel.ca@SD" tvg-logo="https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920" group-title="Music;Kids",New Channel (480p)
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4
-https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News (1080p)
-https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 #EXTINF:-1 tvg-id="CityNewsCalgary.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Calgary (720p)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-id="CityNewsEdmonton.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="News",CityNews Edmonton
@@ -153,8 +151,8 @@ https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m
 http://107.167.16.138/cp24/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HamdardTV.ca@SD" tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" group-title="News",Hamdard TV (1080p)
 https://tv.hamdardtv.com/hamdard/index.m3u8
-#EXTINF:-1 tvg-id="LCN.ca@SD" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="News",LCN [Geo-blocked]
-https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-id="IciRDI.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" group-title="News",ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="News",Probashi TV News (1080p)
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="TVPunjab.ca@SD" tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="News",TV Punjab (720p) [Geo-blocked]
@@ -193,12 +191,12 @@ https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca@SD" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",Fight Network (720p)
 https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="GamePlus.ca@SD" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="Sports",Game+ (720p)
-https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocks.ca@SD" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="Sports",Hard Knocks (1080p) [Not 24/7]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4 (720p)
+http://109.104.153.220:80/TSN-4/index.m3u8
 #EXTINF:-1 tvg-id="CanadaOne.ca@SD" group-title="Undefined",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Savoirmedia.ca@CFTUDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="Undefined",Canal Savoir (360p)
@@ -206,35 +204,9 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD" tvg-logo="https://i.imgur.com/xwntWOP.png" group-title="Undefined",Cowboy Channel (1080p)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="Homeful.ca@US" tvg-logo="https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" group-title="Undefined",Homeful (1080p)
-https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8
+https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CFHDDT" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Undefined",ICI Montreal (720p)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBFTDT" tvg-logo="https://i.imgur.com/pFCJGj4.png" group-title="Undefined",Ici Radio-Canada Télé (1080p) [Geo-blocked]
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBXFTDT" tvg-logo="https://i.imgur.com/xN4Valg.png" group-title="Undefined",Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBUFTDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" group-title="Undefined",Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CJBRDT" tvg-logo="https://i.imgur.com/1B3d8Jc.png" group-title="Undefined",Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CKSHDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" group-title="Undefined",Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBWFTDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ICI_Manitoba_logo_2018.svg/960px-ICI_Manitoba_logo_2018.svg.png" group-title="Undefined",Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CKTMDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" group-title="Undefined",Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBLFTDT" tvg-logo="https://i.imgur.com/1f798e8.png" group-title="Undefined",Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBOFTDT" tvg-logo="https://i.imgur.com/373Y8Py.png" group-title="Undefined",Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBVTDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" group-title="Undefined",Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CKTVDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" group-title="Undefined",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBKFTDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ICI_Saskatchewan_logo_2018.svg/960px-ICI_Saskatchewan_logo_2018.svg.png" group-title="Undefined",Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBAFTDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/960px-ICI_Acadie_logo_2018.svg.png" group-title="Undefined",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 #EXTINF:-1 tvg-id="TLN.ca@KQSL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png" group-title="Undefined",KQSL Channel 8 (720p)
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVPlus.ca@SD" tvg-logo="https://i.imgur.com/YEUhPBv.png" group-title="Undefined",NTV+
@@ -253,10 +225,5 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
 #EXTINF:-1 tvg-id="Toronto360TV.ca@SD" tvg-logo="https://i.imgur.com/YJYdHKO.png" group-title="Undefined",Toronto 360 TV (720p) [Not 24/7]
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA.ca@CFTMDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png" group-title="Undefined",TVA [Geo-blocked]
-https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-id="UvagutTV.ca@SD" tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="Undefined",Uvagut TV (1080p)
-#EXTVLCOPT:http-referrer=https://www.uvagut.tv/
-https://hls.uvagut.tv/hls/uvagut/playlist.m3u8
 #EXTINF:-1 tvg-id="WildTV.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png" group-title="Undefined",Wild TV (1080p)
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8

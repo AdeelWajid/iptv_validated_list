@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KanaalZ.be@SD" tvg-logo="https://i.imgur.com/YzgYJxM.png" group-title="Business",Trends Z (1080p)
-https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
-#EXTINF:-1 tvg-id="BalchiTV.aw@SD" tvg-logo="https://i.imgur.com/XlCaZvF.png" group-title="Culture",Balchi TV
-https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bonairetv.bq@SD" tvg-logo="https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png" group-title="Culture",Bonaire.tv (1080p) [Not 24/7]
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-id="Salto2.nl@SD" tvg-logo="https://i.imgur.com/6H3ycdL.png" group-title="Culture",Salto 2 (720p)
@@ -34,7 +30,7 @@ https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protoc
 #EXTINF:-1 tvg-id="ATV.be@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png" group-title="General",ATV (1080p)
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-id="DitisHelmond.nl@SD" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="General",Dit is Helmond (480p)
-https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8
+http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DTVDenBosch.nl@SD" tvg-logo="https://i.imgur.com/aFBNbsy.png" group-title="General",DTV Den Bosch (1080p)
 https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="DTVMaashorst.nl@SD" tvg-logo="https://i.imgur.com/5WaCCAC.png" group-title="General",DTV Maashorst (1080p)
@@ -100,9 +96,9 @@ https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ORTSTV.nl@SD" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General",ORTS (480p) [Not 24/7]
 https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio1.be@SD" tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png" group-title="General",Radio 1 (720p)
-https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.mpd
+https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Radio2.be@SD" tvg-logo="https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png" group-title="General",Radio 2 (720p)
-https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.mpd
+https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8
 #EXTINF:-1 tvg-id="RPLWoerden.nl@SD" tvg-logo="https://i.imgur.com/UdYMXWQ.png" group-title="General",RPL TV Woerden (720p)
 https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 #EXTINF:-1 tvg-id="RTVLOVE.nl@SD" tvg-logo="https://i.imgur.com/hucwX6v.png" group-title="General",RTV LOVE (720p)
@@ -232,8 +228,6 @@ https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
 https://stream.radio350.nl/hls/radio350.m3u8
 #EXTINF:-1 tvg-id="Radio538.nl@SD" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="Undefined",Radio 538 (270p)
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
-#EXTINF:-1 tvg-id="RadioAalsmeerTV.nl@SD" tvg-logo="https://i.imgur.com/SYzjLlI.png" group-title="Undefined",Radio Aalsmeer TV (720p) [Not 24/7]
-https://radioaalsmeer.nl:4443/live/tv.m3u8
 #EXTINF:-1 tvg-id="Regio90TV.nl@SD" tvg-logo="https://i.imgur.com/UGnm1jd.png" group-title="Undefined",Regio90 TV (720p)
 https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RN7.nl@SD" tvg-logo="https://i.imgur.com/dYBTrLc.png" group-title="Undefined",RN7 TV (1080p)
@@ -281,11 +275,11 @@ http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TweedeKamerKlompezaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Undefined",Tweede Kamer: Klompezaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="UStad.nl@SD" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Undefined",UStad (1080p)
-http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 tvg-id="VechtdalTV.nl@SD" tvg-logo="https://i.imgur.com/MhcKEwr.png" group-title="Undefined",Vechtdal TV (480p)
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOS.nl@SD" tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="Undefined",WOS TV (1080p)
-https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WTV.be@SD" tvg-logo="https://i.imgur.com/wvKe8mi.png" group-title="Undefined",WTV
 https://wtvlive.b-cdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ZO34.nl@SD" tvg-logo="https://i.imgur.com/yiihDg6.png" group-title="Undefined",ZO!34 (720p)

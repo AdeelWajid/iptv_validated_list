@@ -10,6 +10,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu@SD" tvg-logo="https://i.imgur.com/Hf122ZD.png" group-title="Culture;Education",Liceum TV (576p)
 http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us@SD" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Culture;Education",MCN6 Arts Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id@SD" tvg-logo="https://i.imgur.com/jAAPgpV.png" group-title="Culture;Education",The Indonesia Channel (1080p)
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="TVERS.br@SD" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Culture;Education",TVE RS (1080p)
@@ -39,7 +41,7 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 #EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Education",Canal Educacao (720p)
 http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="Education",Canal Futura (720p)
-http://170.83.16.50/FUTURA/index.m3u8
+http://186.219.52.187/futura/index.m3u8
 #EXTINF:-1 tvg-id="CanalUniversidad.ar@SD" tvg-logo="https://files.catbox.moe/n1b27y.png" group-title="Education",Canal Universidad
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV-10 (720p)
@@ -91,7 +93,7 @@ https://cdn-live.dltv.ac.th/dltv09.m3u8
 #EXTINF:-1 tvg-id="EBCGeneralEducation.kh@SD" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" group-title="Education",EBC General Education (720p) [Not 24/7]
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" group-title="Education",EBS 1 (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png" group-title="Education",EBS 2 (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSEnglish.kr@SD" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E (400p) [Not 24/7]
@@ -108,9 +110,6 @@ http://190.128.214.97:64333/play/a011/index.m3u8
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="Education",English Club TV (576i)
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Fauna.ua@SD" tvg-logo="https://i.imgur.com/UwQcDTm.png" group-title="Education",Fauna (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/401/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" group-title="Education",Futura (720p)
 http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" group-title="Education",Gillette Public Access Television Channel 189
@@ -155,8 +154,10 @@ https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="OUN.kr@SD" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Education",OUN (1080p)
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="PayamJavanTV.us@SD" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Education",Payam Javan TV (720p) [Not 24/7]
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Education",PBS National West (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us@KMOSTV" tvg-logo="https://i.imgur.com/2W1XVCO.png" group-title="Education",PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-id="PersianaMedical.fr@SD" group-title="Education",Persiana Medical
 https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
@@ -170,14 +171,10 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="Education",Rede Minas (720p)
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RinjaniTV.id@SD" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="Education",Rinjani TV
-https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" tvg-logo="https://i.imgur.com/1BHJjY4.png" group-title="Education",Ryongnamsan Television SD (720p) [Not 24/7]
 https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel24.us@SD" tvg-logo="https://i.imgur.com/4Autljp.png" group-title="Education",Santa Maria Community Television Education Channel (720p)
 https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="XHUNESTDT.mx@SD" tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Education",Señal España (XHUNES-TDT) (720p)
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-id="ShamsTV.af@SD" tvg-logo="https://i.imgur.com/Lsy31iZ.jpeg" group-title="Education",Shams TV
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn@SD" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Education",STVE Telebasica (1080p)
@@ -220,14 +217,10 @@ https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="Education",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="WPSTV.us@SD" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="Education",WPS TV (360p)
-https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Education",Zoom (1080p)
 http://138.121.15.230:9002/ZOOM/index.m3u8
 #EXTINF:-1 tvg-id="Yaslyk.tm@SD" tvg-logo="https://i.imgur.com/QVWBNGM.png" group-title="Education",Ýaşlyk (406p) [Not 24/7]
 https://alpha.tv.online.tm/legacyhls/ch002.m3u8
-#EXTINF:-1 tvg-id="UnisulTV.br@SD" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Education;Culture",UNISUL TV (720p)
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="CiftciTV.tr@SD" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Education;Culture",Çiftçi TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="Education;Culture;Entertainment",Manas TV (1080p)
@@ -277,7 +270,7 @@ https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Outdoor;Education",CCTV-17 (1080p)
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Outdoor;Relax;Documentary;Education",WildEarth (1080p)
-https://wildearth-xumo.amagi.tv/master.m3u8
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br@HD" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" group-title="Public;Education;Culture",TV UFOP (1080p)
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="PaighanTV.pk@SD" tvg-logo="https://i.imgur.com/zokC3gO.png" group-title="Religious;Education",Paighan TV

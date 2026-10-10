@@ -25,7 +25,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr@SD" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="Entertainment",Kanal 7 Avrupa (720p) [Not 24/7]
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entertainment",Kanal D Drama (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr@SD" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr@SD" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="General",A2TV (1080p)
@@ -36,8 +36,6 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AnadoluNetTV.tr@SD" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="General",Anadolu Net TV (1080p)
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 tvg-id="ArasTV.tr@SD" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="General",ARAS TV (576p) [Not 24/7]
-http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr@SD" tvg-logo="https://i.imgur.com/bUwarR0.png" group-title="General",ATV Alanya (1080p)
@@ -98,6 +96,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="Van65TV.tr@SD" tvg-logo="https://van65tv.com/assets/images/logo/logo.png" group-title="General",Van 65 TV
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTGenc.tr@SD" tvg-logo="https://i.imgur.com/fCHQYWS.png" group-title="General;Culture",TRT Genc (1440p) [Geo-blocked]
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr@SD" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go (720p)
@@ -222,6 +222,8 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-2
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBMMTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png" group-title="Undefined",TBMM TV (720p)
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="Undefined",Tele 1 (1080p)
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr@SD" tvg-logo="https://i.imgur.com/tZpx32y.png" group-title="Undefined",Tempo TV (720p)
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr@SD" tvg-logo="https://i.imgur.com/f0Soeob.png" group-title="Undefined",Ton TV (720p) [Not 24/7]
