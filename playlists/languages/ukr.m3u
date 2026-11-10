@@ -83,6 +83,8 @@ http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 tvg-id="InterPlus.ua@SD" tvg-logo="https://i.imgur.com/Y392Hh4.png" group-title="General",Inter+ (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="IRT.ua@SD" tvg-logo="https://i.imgur.com/tDTUIRm.png" group-title="General",IRT (720p)
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
 #EXTINF:-1 tvg-id="ITV.ua@SD" tvg-logo="https://i.imgur.com/NZdT9yJ.png" group-title="General",ITV HD (720p)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="IzmailTV.ua@SD" tvg-logo="https://i.imgur.com/CxsUpGz.png" group-title="General",Izmail TV (384p)
@@ -231,7 +233,8 @@ https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 tvg-id="ArmyTV.ua@SD" tvg-logo="https://i.imgur.com/pGByjbh.png" group-title="News",Army TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="Channel5.ua@SD" tvg-logo="https://i.imgur.com/a9JJXPk.png" group-title="News",Channel 5 (1080p)
-https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/291/index.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="News",Espreso TV (1080p)
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:-1 tvg-id="Kyiv.ua@SD" tvg-logo="https://i.imgur.com/TVuCY4N.png" group-title="News",Kyiv (1080p)
@@ -242,8 +245,10 @@ http://stream.mcquack.net/442/index.m3u8
 #EXTINF:-1 tvg-id="ObozrevatelTV.ua@SD" tvg-logo="https://i.imgur.com/ubldSBv.png" group-title="News",Obozrevatel TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
-#EXTINF:-1 tvg-id="SK1.ua@SD" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="News",SK 1 (720p)
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 tvg-id="PTV.ua@SD" tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="News",PTV (720p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SK1.ua@SD" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="News",СК1 Житомир (720p)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Reporter.ua@SD" tvg-logo="https://i.imgur.com/LyA3kBR.png" group-title="News",Телеканал Репортер Одесса (720p)
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua@SD" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="News;Business",100% News (576p)
@@ -322,6 +327,8 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.ua@SD" tvg-logo="https://i.imgur.com/Hsr0EvO.png" group-title="Undefined",Mega (1080p)
 http://stream.mcquack.net/325/index.m3u8
+#EXTINF:-1 tvg-id="OTV.ua@SD" tvg-logo="https://i.imgur.com/TkGGGAj.png" group-title="Undefined",OTV (576p)
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
 #EXTINF:-1 tvg-id="RAZ3.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Raz_3_%282026%29.png" group-title="Undefined",RAZ 3 (720p)
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -340,6 +347,8 @@ http://stream.mcquack.net/402/index.m3u8
 #EXTINF:-1 tvg-id="TET.ua@SD" tvg-logo="https://i.imgur.com/Wu6wtbe.png" group-title="Undefined",TET (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 tvg-id="TISTV.ua@SD" tvg-logo="https://i.imgur.com/jDaoUt5.png" group-title="Undefined",TIS TV (720p)
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="Undefined",TVA (576p)
 http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.ua@SD" tvg-logo="https://i.imgur.com/RBqKj6R.png" group-title="Undefined",Viasat Explore

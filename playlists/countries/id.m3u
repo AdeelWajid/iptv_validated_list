@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png" group-title="Business",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="Cooking",Dens Food Channel [Not 24/7]
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id@SD" tvg-logo="https://i.imgur.com/jAAPgpV.png" group-title="Culture;Education",The Indonesia Channel (1080p)
@@ -10,6 +7,8 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="RinjaniTV.id@SD" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="Education",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1 tvg-id="FicomChannel.id@SD" tvg-logo="https://i.imgur.com/KMEf0Cc.png" group-title="Entertainment",Ficom Channel (720p)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IndonesianaTV.id@SD" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="Entertainment",Indonesiana.TV (720p)
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
@@ -51,8 +50,6 @@ http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Madiun" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General",JTV Madiun (720p)
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id@Madura" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General",JTV Madura (480p) [Not 24/7]
-http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Malang" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General",JTV Malang (480p)
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="General",Kawanua TV (720p)
@@ -64,6 +61,9 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="General",Magna Channel (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MGSTV.id@SD" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="General",MGSTV (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
+https://mgstv.siar.us/live/mgstv.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="General",Nusantara TV (1080p)
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="General",Padang TV (720p) [Not 24/7]
@@ -145,14 +145,13 @@ https://mic.siar.us/mic/live/mic.m3u8
 https://flv.intechmedia.net/live/ch112.m3u8
 #EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="News",BTV (1080p)
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CNN_Indonesia_logo_%282023%29.svg" group-title="News",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="News",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id@Surabaya" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg" group-title="News;Interactive",Suara Surabaya Visual Radio (720p)
 #EXTVLCOPT:http-referrer=https://www.suarasurabaya.net/
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LingkarTV.id@SD" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="News;Music;Religious",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="AhsanTV.id@SD" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religious",Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlBahjahTV.id@SD" tvg-logo="https://i.imgur.com/52dlDZk.png" group-title="Religious",Al-Bahjah TV (1080p)
@@ -202,6 +201,9 @@ http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PujaTVAceh.id@SD" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="Undefined",Puja TV Aceh (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://www.pujatvaceh.com/
 https://pujatv.siar.us/live/pujatv.m3u8
+#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" group-title="Undefined",Radar Lampung TV (480p)
+#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
+https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="Undefined",Radar Tasikmalaya TV (720p) [Not 24/7]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTV.id@SD" tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="Undefined",RCTV (720p) [Not 24/7]

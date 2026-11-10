@@ -200,10 +200,12 @@ https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTV2.ro@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL2-8r1l1NDdmA6jkZYvHxPFrsIA7a8m-XdSpwC6Z&s=10" group-title="Music",Impact TV 2 (1080p)
 https://online.tvimpact.live/hls/impact_tv2.m3u8
+#EXTINF:-1 tvg-id="ImpactTVDance.ro@SD" tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp" group-title="Music",Impact TV Dance (1080p)
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="ImpactTVManele.ro@SD" tvg-logo="https://i.imgur.com/4JdnUAd.png" group-title="Music",Impact TV Manele (1080p)
+https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro@SD" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Music",LiraTV (720p)
-https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro@SD" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Music",Magic TV (720p)
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="NorocTV.md@SD" tvg-logo="https://i.imgur.com/XvYqpqG.png" group-title="Music",Noroc TV
@@ -285,14 +287,18 @@ https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="LLBNTVRomanian.us@SD" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="Religious",Lighting Lives Blessing Nations TV Romanian (LLBN) (480p)
 https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
+#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-logo="https://i.imgur.com/2RxQNm6.png" group-title="Religious",MISA TV (720p)
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-id="RTNChicago.us@SD" tvg-logo="https://i.ibb.co/wwchqYk/889dc1-937ba3d8d4ed4331a668a1c544766318-mv2.png" group-title="Religious",RTN Chicago (480p)
 https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro@SD" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Religious",SperantaTV (1080p)
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="Series",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaPlayEvents.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145" group-title="Sports",AntenaPlay Events (576i) [Not 24/7]
-https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145" group-title="Sports",AntenaPlay Events (576p) [Not 24/7]
+https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8
+#EXTINF:-1 tvg-id="AntenaSport.ro@SD" tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg" group-title="Sports",AntenaSport
+https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr@Romania" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Sports",Eurosport 4K Romania (2160p) [Geo-blocked]
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports",Realitatea Sportiva (720p)
@@ -309,6 +315,8 @@ https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="Digi4K.ro@UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Undefined",Digi 4K (2160p) [Geo-blocked]
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+#EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="Undefined",Exploris (576p) [Not 24/7]
+http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="IneditTV.ro@SD" tvg-logo="https://i.imgur.com/HcFpNwA.png" group-title="Undefined",Inedit TV
 https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="ProArena.ro@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/PRO_Arena_Logo_%282022-present%29.svg/960px-PRO_Arena_Logo_%282022-present%29.svg.png" group-title="Undefined",Pro Arena (1080p)
@@ -325,8 +333,6 @@ https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RomaniaTV.ro@SD" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Undefined",Romania TV (576p)
 https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="SangeorzTV.ro@SD" tvg-logo="https://sangeorztv.ro/wp-content/uploads/2025/12/sangeorz-tv-3.png" group-title="Undefined",Sangeorz TV (576p)
-https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 #EXTINF:-1 tvg-id="TarafTV.ro@SD" tvg-logo="https://i.imgur.com/0iuwjbK.png" group-title="Undefined",Taraf TV (576p)
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="Telestar1.ro@SD" tvg-logo="https://i.imgur.com/BTKh5ef.png" group-title="Undefined",Telestar1
@@ -335,6 +341,8 @@ https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Undefined",TVPlus Suceava (576p)
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSat.ro@SD" tvg-logo="https://i.imgur.com/54GHZMv.png" group-title="Undefined",TVSat (576p) [Not 24/7]
+http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="UTV.ro@HD" tvg-logo="https://i.imgur.com/aBdz9IT.png" group-title="Undefined",UTV HD (1080i)
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="Undefined",Vocea Basarabiei TV

@@ -35,14 +35,10 @@ https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
 #EXTINF:-1 tvg-id="CANALPlus360.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal360_1920x1080.png/960px-Canal360_1920x1080.png" group-title="Family",CANAL+ 360 (576i)
 http://92.114.85.87:8019/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="BTB.pl@SD" tvg-logo="https://btb.j00r.us/images/logo_BTB.webp" group-title="General",BTB (1080p)
-https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
 #EXTINF:-1 tvg-id="BTB2.pl@SD" tvg-logo="https://i.imgur.com/C5g0ejM.png" group-title="General",BTB 2 (1080p)
 https://emisja.btb.j00r.us/iptv/session/2/live.m3u8
 #EXTINF:-1 tvg-id="BTB3.pl@HD" tvg-logo="https://i.imgur.com/Z193940.png" group-title="General",BTB 3 (1080p)
 https://emisja3.btb.j00r.us/iptv/session/3/live.m3u8
-#EXTINF:-1 tvg-id="BTB.pl@HD" tvg-logo="https://i.imgur.com/U8mcRal.png" group-title="General",BTB HD (720p)
-https://emisja.btb.j00r.us/iptv/session/1/live.m3u8
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl@HD" group-title="General",Dr G Medical Examiner (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
 #EXTINF:-1 tvg-id="FokusTV.pl@SD" tvg-logo="https://i.imgur.com/emWWd5k.png" group-title="General",Fokus TV
@@ -53,8 +49,6 @@ http://92.114.85.87:8001/play/a013/index.m3u8
 http://92.114.85.87:8004/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaJaslo.pl@SD" tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="General",Telewizja Jaslo (720p)
 https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TelewizjaLuban.pl@SD" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="General",Telewizja Lubań (720p) [Not 24/7]
-http://stream.herissons.cloud/hls/tvluban.m3u8
 #EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl@SD" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="General",Telewizja Regionalna Zary
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
 #EXTINF:-1 tvg-id="TelewizjaRelax.pl@SD" tvg-logo="https://i.imgur.com/dejnH0O.png" group-title="General",Telewizja Relax (1080p)
@@ -135,18 +129,6 @@ http://92.114.85.87:8014/play/a00a/index.m3u8
 http://92.114.85.87:8001/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.pl@SD" tvg-logo="https://i.imgur.com/DaAyLE7.png" group-title="Series;Movies",AXN White (576i)
 http://92.114.85.87:8014/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.pl@SD" tvg-logo="https://i.imgur.com/E0WTMa2.png" group-title="Sports",Canal+ Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/92/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl@SD" tvg-logo="https://i.imgur.com/Aq2hnUj.png" group-title="Sports",Canal+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/94/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport3.pl@SD" tvg-logo="https://i.imgur.com/QZwPFa8.png" group-title="Sports",Canal+ Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/93/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport4.pl@SD" tvg-logo="https://i.imgur.com/BNAPYAx.png" group-title="Sports",Canal+ Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/95/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@Poland" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports",FightBox Poland (576i)
 http://92.114.85.87:8003/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="Bigtime.pl@SD" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="Undefined",Bigtime (720p)
