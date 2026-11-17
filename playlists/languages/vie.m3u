@@ -3,6 +3,10 @@
 https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="Cooking",Asian Food Network Vietnam (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=215
+#EXTINF:-1 tvg-id="HmongStarTV.us@SD" tvg-logo="https://i.imgur.com/dRsacao.png" group-title="Culture",Hmong Star TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HmongTVNetwork.us@SD" tvg-logo="https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj" group-title="Culture",Hmong TV Network (720p)
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV5.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" group-title="Culture",HTV5 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-id="VinhLongTV2.vn@SD" tvg-logo="https://i.imgur.com/iluoazf.png" group-title="Culture;Entertainment",Vinh Long TV 2 (720p)
@@ -19,10 +23,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="ONVieDramas.vn@SD" tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" group-title="Entertainment",ON Vie Dramas (1080i)
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-id="ONVieGiaiTri.vn@HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png" group-title="Entertainment",ON Vie Giai Tri (1080i)
-https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
-#EXTINF:-1 tvg-id="ONVFamily.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png" group-title="Entertainment;Family",ON V Family (480p)
-https://vmttv.dpdns.org/tv360?id=187
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn@HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png" group-title="Entertainment",ON Vie Giai Tri (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="HTV2.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png" group-title="Entertainment;General",HTV2 (720p)
 https://dethich.pw/htv2/index.m3u8
 #EXTINF:-1 tvg-id="HTVCFamily.vn@SD" tvg-logo="https://i.ibb.co/BVQtkHgF/IMG-2899.png" group-title="Family",HTVC Family (720p)
@@ -39,10 +41,14 @@ http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 https://dethich.pw/htv1/index.m3u8
 #EXTINF:-1 tvg-id="HTV7.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" group-title="General",HTV7 (720p)
 https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 tvg-id="ISTV.la@SD" tvg-logo="https://i.imgur.com/TGAKFcV.jpg" group-title="General",ISTV (480p)
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LangSonTV.vn@SD" tvg-logo="https://i.imgur.com/Sj7EjYT.png" group-title="General",Lang Son TV (720p) [Geo-blocked]
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 #EXTINF:-1 tvg-id="NgheAnTV.vn@SD" tvg-logo="https://i.imgur.com/d9YEEwC.png" group-title="General",Nghe An TV (720p)
 https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
+#EXTINF:-1 tvg-id="OhMuangLaoTV.la@SD" tvg-logo="https://i.imgur.com/SdB3Vyr.jpg" group-title="General",Oh Muang Lao TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiNguyenTV.vn@SD" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" group-title="General",Thái Nguyên TV (720p)
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="TVBVietnam.vn@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg" group-title="General",TVB Vietnam (1080p)
@@ -91,12 +97,16 @@ https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" group-title="Series",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-id="ONPhimViet.vn@SD" tvg-logo="https://i.ibb.co/Swvp1vwM/IMG-2525.jpg" group-title="Series",ON Phim Viet (1080p)
-https://vmttv.dpdns.org/tv360?id=175
 #EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" group-title="Series;Entertainment;General",HTV3 (720p)
 https://dethich.pw/htv3/index.m3u8
 #EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" group-title="Series;Movies",HTVC Movies (720p)
 https://dethich.pw/htvcphim/index.m3u8
+#EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Shop",Lao-Thai TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TeaTV.vn@SD" tvg-logo="https://i.imgur.com/WorbnyD.jpg" group-title="Shop",Tea TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="UniquelyThai.vn@SD" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="Sports",HTV Sports (1080p)
 https://dethich.pw/htvthethao/index.m3u8
 #EXTINF:-1 tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp" group-title="Sports",VTV6 (720p)
@@ -110,7 +120,7 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CanThoTV3.vn@SD" tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" group-title="Undefined",Cần Thơ TV3 (1080p)
 https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV3.vn@SD" tvg-logo="https://i.imgur.com/6P39BiA.png" group-title="Undefined",Dong Nai TV 3 (720p)
-https://dethich.pw/dongnai3/index.m3u8
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="ONTrendingTV.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab17%20-%20ON%20Trending%20TV.png" group-title="Undefined",ON Trending TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Undefined",QPVN HD (1080p)
@@ -156,7 +166,7 @@ http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/VTV3_logo_07-09-2026.png/960px-VTV3_logo_07-09-2026.png" group-title="Undefined",VTV3 HD (720p)
 https://dethich.pw/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/VTV4_logo_2026.png" group-title="Undefined",VTV4 HD (720p)
-https://dethich.pw/vtv4/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/VTV5_logo_2025.png" group-title="Undefined",VTV5 HD (720p)
 https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/VTV5_T%C3%A2y_Nam_B%E1%BB%99.webp" group-title="Undefined",VTV5 Tay Nam Bo HD (1080p)

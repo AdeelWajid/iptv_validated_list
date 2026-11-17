@@ -64,8 +64,6 @@ https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
 https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
 #EXTINF:-1 tvg-id="Canal12VenadoTuerto.ar@SD" tvg-logo="https://i.imgur.com/b93YC0V.jpeg" group-title="General",Canal 12 Venado Tuerto (1080i)
 https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
-#EXTINF:-1 tvg-id="Canal2Gualeguay.ar@SD" tvg-logo="https://i.imgur.com/TOlncyp.png" group-title="General",Canal 2 Gualeguay
-https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2MardelPlata.ar@SD" tvg-logo="https://i.imgur.com/wlKFPBW.jpeg" group-title="General",Canal 2 Mar del Plata (720p)
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar@SD" tvg-logo="https://i.imgur.com/hgj3CaR.jpeg" group-title="General",Canal 2 NexTV Rafaela (720p)
@@ -81,6 +79,8 @@ https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5DelPueblo.ar@SD" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="General",Canal 5 Del Pueblo [Not 24/7]
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5TVChepes.ar@SD" tvg-logo="https://i.imgur.com/AzEqroq.png" group-title="General",Canal 5 TV Chepes
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
 #EXTINF:-1 tvg-id="Canal7Neuquen.ar@SD" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="General",Canal 7 Neuquén (1080p)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia (720p)
@@ -93,10 +93,6 @@ https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
 #EXTINF:-1 tvg-id="CorreaRadiovision.ar@SD" tvg-logo="https://i.imgur.com/bNCGzjf.jpeg" group-title="General",Correa Radiovision
 https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
-#EXTINF:-1 tvg-id="CorrientesTV.ar@SD" tvg-logo="https://i.imgur.com/7PBkvRp.png" group-title="General",Corrientes TV
-https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
-#EXTINF:-1 tvg-id="EcoTV.ar@SD" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="General",Eco TV
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="General",El Nueve (1080p)
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",El Trece (1080p)
@@ -134,8 +130,8 @@ https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
 https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/1920px-Paka-Paka-2025.svg.png" group-title="Kids",Pakapaka (1080p)
 http://138.59.227.20:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Movies",Film & Arts (1080p)
-http://200.115.120.1:8000/play/ca131/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Movies",Film & Arts (480p)
+http://45.228.234.9:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -185,6 +181,10 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar@SD" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="News",Multivision Federal
 https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:-1 tvg-id="QuanticaTV.ar@SD" tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="News",Quantica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN (1080p)
+http://158.172.155.130:8000/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-id="VIVETV.ar@HD" tvg-logo="https://raw.githubusercontent.com/vivetvargentina/vive-tv/main/Logo%20512x512-04.png" group-title="News",VIVE TV (1080p)
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-id="Canal6VientoRecio.ar@SD" tvg-logo="https://i.imgur.com/liyTNzK.png" group-title="Religious",Canal 6 Viento Recio
@@ -198,9 +198,9 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar@SD" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religious",Unife TV (720p)
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Series",Europa Europa (1080p)
-http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8
-#EXTINF:-1 tvg-id="CanalShowsport.ar@SD" tvg-logo="https://i.imgur.com/0L9tW3Z.png" group-title="Sports",Canal Showsport (720p)
-https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+http://45.228.234.9:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV (1080p)
+http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium
 http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium HD (1080p)
@@ -232,8 +232,6 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar@SD" tvg-logo="https://i.imgur.com/PaQH5JM.png" group-title="Undefined",Canal 20 Villa Maria (1080p)
 #EXTVLCOPT:http-referrer=https://www.canal20villamaria.com.ar/
 https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal21TV.ar@SD" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Undefined",Canal 21 TV (1080p)
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Formosa.ar@SD" tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="Undefined",Canal 3 Formosa
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3LaPampa.ar@SD" tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Undefined",Canal 3 La Pampa (1080p)
@@ -246,8 +244,6 @@ http://intelincloud01.com.ar/hls/cn3/index.m3u8
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Posadas.ar@SD" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Undefined",Canal 4 Posadas (1080p)
 http://190.128.214.97:64333/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="Canal5SantaFe.ar@SD" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="Undefined",Canal 5 Santa Fe (240p)
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal50Morteros.ar@SD" tvg-logo="https://i.imgur.com/IDhgBav.png" group-title="Undefined",Canal 50 Morteros
 https://online.coopmorteros.coop/canal50/vivo.m3u8
 #EXTINF:-1 tvg-id="Canal6Posadas.ar@SD" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="Undefined",Canal 6 Posadas (1080p)
@@ -294,12 +290,14 @@ http://138.121.15.230:9002/SONY/index.m3u8
 http://45.171.64.30:6060/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="T5Satelital.ar@SD" tvg-logo="https://i.imgur.com/ZcD0rUP.png" group-title="Undefined",T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
-#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (1080p)
-http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (576p)
+http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="TelefeSalta.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png" group-title="Undefined",Telefe Salta
 https://canal11saltatv.unpocodeawita.workers.dev
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="TIVTelevision.ar@SD" tvg-logo="https://i.imgur.com/gsgXGEj.png" group-title="Undefined",TIV Television (720p)
+https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD" tvg-logo="https://i.imgur.com/4dUvFqa.png" group-title="Undefined",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
 #EXTINF:-1 tvg-id="Uniteve.ar@SD" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve (720p) [Not 24/7]

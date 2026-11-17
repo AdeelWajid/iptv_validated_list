@@ -11,8 +11,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
 https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 #EXTINF:-1 tvg-id="ART.ru@SD" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="Culture",ART (576p)
 http://89.104.114.24:8080/art/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="Culture",Arte 1 (720p)
-http://170.83.16.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe@SD" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Culture",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="ATR.ua@SD" tvg-logo="https://i.imgur.com/lRJAXC7.png" group-title="Culture",ATR (1080p)
@@ -69,10 +67,16 @@ https://fnx.lls.pbs.org/index.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us@SD" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Culture",Guaymate TV (720p) [Not 24/7]
+https://183.giatvcdn.com/ssh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="Culture",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es@SD" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Culture",Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HmongStarTV.us@SD" tvg-logo="https://i.imgur.com/dRsacao.png" group-title="Culture",Hmong Star TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HmongTVNetwork.us@SD" tvg-logo="https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj" group-title="Culture",Hmong TV Network (720p)
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl@SD" tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="Culture",Holvoet TV (Copiapó) (720p) [Not 24/7]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV5.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" group-title="Culture",HTV5 (1080p)
@@ -85,6 +89,8 @@ https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="KajouTV.us@SD" tvg-logo="https://i.imgur.com/2XzghdT.png" group-title="Culture",Kajou TV (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
+#EXTINF:-1 tvg-id="KemetTV.cm@SD" tvg-logo="https://i.imgur.com/NZ0YqOb.jpeg" group-title="Culture",Kemet TV
+https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
 #EXTINF:-1 tvg-id="KIIOLD101.us@HD" tvg-logo="https://i.imgur.com/wkzwXFO.png" group-title="Culture",KIIO-LD 10.1
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-id="KomalaTV.se@SD" tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="Culture",Komala TV
@@ -207,11 +213,11 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da9
 #EXTINF:-1 tvg-id="VinhLongTV5.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png" group-title="Culture;Entertainment;Music;News",Vinh Long TV 5 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="SaliraTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="Culture;Lifestyle",Salira TV (720p)
-https://live.salira.tv/p/3870/hybrid/play.m3u8
+https://live.salira.tv:3870/stream/play.m3u8
 #EXTINF:-1 tvg-id="PamirTV.ca@SD" tvg-logo="https://i.imgur.com/sCBbBOj.png" group-title="Culture;Music",Pamir TV (1080p) [Not 24/7]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="RadioSuyaiTV.cl@HD" tvg-logo="https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350" group-title="Culture;Music",Radio Suyai TV (1080p)
-https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
+https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8
 #EXTINF:-1 tvg-id="ShowVenTV.ve@SD" tvg-logo="https://i.imgur.com/AJIN8Dc.png" group-title="Culture;Music",ShowVen TV (720p)
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
 #EXTINF:-1 tvg-id="IshtarTV.iq@SD" tvg-logo="https://i.imgur.com/qzApokm.png" group-title="Culture;Music;Religious",Ishtar TV (1080p)
@@ -233,6 +239,8 @@ http://stream.mcquack.net/353/index.m3u8
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV4.vn@SD" tvg-logo="https://i.imgur.com/ARhIkvR.png" group-title="Culture;Travel;Sports;Entertainment",Vinh Long TV 4 (720p)
 https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="Documentary;Culture",BBC Four (720p) [Not 24/7]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Documentary;Culture",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Documentary;Travel;Culture",China Travel (1080p)
@@ -257,7 +265,7 @@ https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/381/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NHK_World_Transparent.png" group-title="News;Culture",NHK World-Japan (1080p)
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+https://cdn.pishow.tv/ott/live/455/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NHK_World_Transparent.png" group-title="News;Culture",NHK World-Japan HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-id="STZTV.br@SD" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="News;Culture",STZ TV (1080p)

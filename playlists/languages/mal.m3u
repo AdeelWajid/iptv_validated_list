@@ -52,13 +52,11 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision.in@SD" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="General",Vision (576p)
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kappa%20TV.png" group-title="Lifestyle",Kappa TV (576p)
-https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
+https://cdn.pishow.tv/ott/live/1123/master.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142677_ld_h15_aa.png?lock=720x540" group-title="Movies",Asianet Movies (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/We%20TV.png" group-title="Movies",Kairali We (576p)
 https://cdn.pishow.tv/ott/live/1530/master.m3u8
-#EXTINF:-1 tvg-id="KalikaTV.in@SD" tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="Music",Kalika TV (576p)
-http://server.applelive.in/kalikatv/kalikatv.m3u8
 #EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540" group-title="Music",Raj Musix Malayalam (576p)
 https://cdn.pishow.tv/ott/live/1073/master.m3u8
 #EXTINF:-1 tvg-id="24News.in@SD" tvg-logo="https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png" group-title="News",24 News (576p)
@@ -78,7 +76,7 @@ https://dn5yap910rvbg.cloudfront.net/live/mbnews/master.m3u8
 #EXTINF:-1 tvg-id="MediaOne.in@SD" tvg-logo="https://i.postimg.cc/hvvjrVtR/Media_one.png" group-title="News",Media One (720p)
 https://cdn.pishow.tv/ott/live/1481/master.m3u8
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" tvg-logo="https://i.postimg.cc/5tYt2Yg1/channels4_profile_(4).jpg" group-title="News",News Malayalam 24x7 (1080p)
-https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
 #EXTINF:-1 tvg-id="News18Kerala.in@SD" tvg-logo="https://i.postimg.cc/XqPvDXrG/News18_Kerala.png" group-title="News",News18 Kerala (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD" tvg-logo="https://i.postimg.cc/rFvm1067/Raj_News_Malayalam.png" group-title="News",Raj News Malayalam (576p)
@@ -92,6 +90,8 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 https://fta.ektv.in/live/704/master.m3u8
 #EXTINF:-1 tvg-id="HarvestTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Harvest-TV-High-Res-Logo-transparent.png" group-title="Religious",Harvest TV (720p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-id="HarvestTVKeralam.in@SD" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Religious",Harvest TV Keralam (720p)
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us@SD" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Potta-Divine TV USA (480p)
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/POWER-VISION-Logo_2000_X_1125_Transpharent.png" group-title="Religious",Powervision TV (720p)
@@ -103,4 +103,4 @@ https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD" tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Undefined",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SHEKINAH-LOGO_2000_X_1125_Transpharent.png" group-title="Undefined",Shekinah TV (576p)
-https://samitaorigin.tangotv.in/SHEKINAHTV/SAMITAORIGIN/index.m3u8
+https://cdn.pishow.tv/ott/live/447/master.m3u8

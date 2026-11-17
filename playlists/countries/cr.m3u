@@ -27,8 +27,6 @@ http://45.186.106.207:8000/play/a09t/index.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="CotoBrusTV.cr@SD" tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="General",Coto Brus TV (720p)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 tvg-id="GarabitoTV.cr@SD" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="General",Garabito TV (720p)
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GuatusoTV.cr@SD" tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png" group-title="General",Guatuso TV (720p)
 https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 #EXTINF:-1 tvg-id="LimonTV.cr@SD" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="General",Limón TV (1080p) [Not 24/7]
@@ -39,7 +37,7 @@ https://tiquiciatv.com/hls/lstv.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr@SD" tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="General",Nicoya TV (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SarapiquiTV.cr@SD" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="General",Sarapiqui TV (720p) [Not 24/7]
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="TDtv.cr@SD" tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="General",TDtv (720p)
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="TeleBrunca.cr@SD" tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="General",TeleBrunca (720p) [Not 24/7]
@@ -76,12 +74,14 @@ http://45.163.139.42:8000/play/a03d/index.m3u8
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr@SD" tvg-logo="https://i.imgur.com/VDyf36C.png" group-title="Music;Religious;Family",Hope Channel PROYECTO JA (360p)
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
+#EXTINF:-1 tvg-id="NorteInformativoTV.cr@SD" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="News",Norte Informativo TV (240p)
+https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr@SD" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr@HD" tvg-logo="https://i.ibb.co/HSSyRDs/conexion-positiva.png" group-title="Religious",Conexion Positiva Television (1080p)
 https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr@SD" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (1080p)
-http://200.115.120.1:8000/play/ca114/index.m3u8
+http://45.5.118.152:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.cr@SD" tvg-logo="https://i.imgur.com/GfpPQ5D.png" group-title="Religious",Enlace Juvenil
 https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr@SD" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Religious",Extrema TV (720p)
@@ -108,3 +108,5 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr@SD" tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Undefined",TV Sur Canal 14 (1080p)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
+#EXTINF:-1 tvg-id="TVSurCanal9.cr@SD" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Undefined",TV Sur Canal 9 (620p) [Not 24/7]
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
