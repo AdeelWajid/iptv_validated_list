@@ -24,8 +24,6 @@ http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 https://tv.rtvnp.rs/stream.m3u8
 #EXTINF:-1 tvg-id="SandzakTV.rs@SD" tvg-logo="https://i.imgur.com/lm9Fgsp.png" group-title="General",Sandzak TV (576p)
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
-#EXTINF:-1 tvg-id="SuperTVSmederevo.rs@SD" tvg-logo="https://i.imgur.com/IPe4ZdL.png" group-title="General",Super TV Smederevo (360p)
-https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAS.rs@SD" tvg-logo="https://i.imgur.com/LIUtEgD.png" group-title="General",TV AS (576p)
 https://stream.toobimedia.org/public/assabac.m3u8
 #EXTINF:-1 tvg-id="TVJefimija.rs@SD" tvg-logo="https://i.imgur.com/0psj3fj.png" group-title="General",TV Jefimija (576p)
@@ -69,5 +67,7 @@ https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="SciFi.rs@SD" tvg-logo="https://i.imgur.com/FPumwfg.png" group-title="Series",Sci Fi (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+#EXTINF:-1 tvg-id="RTRSplus.ba@SD" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="Undefined",RTRS Plus (576p) [Not 24/7]
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRSTV.ba@SD" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="Undefined",RTRS TV (576p) [Not 24/7]
 https://uzivo.rtrs.tv/tv/live/index.m3u8
