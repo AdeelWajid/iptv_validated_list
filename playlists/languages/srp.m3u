@@ -4,10 +4,8 @@
 http://213.91.179.28:8000/play/a03n
 #EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="Culture",RTS 2 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-id="AXNSpin.hu@SD" tvg-logo="https://i.imgur.com/uVFenKm.png" group-title="Entertainment",AXN Spin
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+#EXTINF:-1 tvg-id="AXNSpin.hu@SD" tvg-logo="https://i.imgur.com/uVFenKm.png" group-title="Entertainment",AXN Spin (576i)
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 #EXTINF:-1 tvg-id="Nova.rs@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Nova_RS_2023.svg/revision/latest" group-title="General",Nova (1080p)
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
 #EXTINF:-1 tvg-id="NovosadskaTV.rs@SD" tvg-logo="https://i.imgur.com/s0SCAeV.png" group-title="General",Novosadska TV (1080p)
@@ -24,6 +22,8 @@ http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 https://tv.rtvnp.rs/stream.m3u8
 #EXTINF:-1 tvg-id="SandzakTV.rs@SD" tvg-logo="https://i.imgur.com/lm9Fgsp.png" group-title="General",Sandzak TV (576p)
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+#EXTINF:-1 tvg-id="SuperTVSmederevo.rs@SD" tvg-logo="https://i.imgur.com/IPe4ZdL.png" group-title="General",Super TV Smederevo (360p)
+https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAS.rs@SD" tvg-logo="https://i.imgur.com/LIUtEgD.png" group-title="General",TV AS (576p)
 https://stream.toobimedia.org/public/assabac.m3u8
 #EXTINF:-1 tvg-id="TVJefimija.rs@SD" tvg-logo="https://i.imgur.com/0psj3fj.png" group-title="General",TV Jefimija (576p)
