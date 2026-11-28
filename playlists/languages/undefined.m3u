@@ -1,10 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="Animation",DreamWorks Channel Latin America (1080p)
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/mZnH8ep.png" group-title="Animation",DreamWorks Channel Latin America (1080p)
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="Animation",FilmRise Anime (720p)
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America (576p)
 http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@Argentina" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation;Kids",Tooncast Argentina (720p)
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@SouthAmerica" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation;Kids",Tooncast SouthAmerica (480p)
+http://190.61.42.218:9000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Plus-Poland" tvg-logo="https://i.imgur.com/R7FCaB5.png" group-title="Business",Bloomberg TV+ (1080p)
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVProfit.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png" group-title="Business",NDTV Profit (1080p)
@@ -15,6 +19,8 @@ https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca@Poland" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",Gusto TV (1080p)
 https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Culture",NTV Mir (576p)
+http://s7.merlive.am/NTVMir/index.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us@Poland" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" group-title="Documentary;Business",Bloomberg Originals (1080p)
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in@SD" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" group-title="Documentary;News",India TV Aap Ki Adalat (1080p) [Geo-blocked]
@@ -93,6 +99,8 @@ https://klmhls.wns.live/hls/stream.m3u8
 https://mohabathls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us@US" tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="Series",Duck Dynasty (1080p)
 https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@ColombiaHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Series",TNT Novelas ColombiaHD (1080p)
+http://181.78.79.131:8000/play/a0na
 #EXTINF:-1 tvg-id="ZNation.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png" group-title="Series",Z Nation (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 #EXTINF:-1 tvg-id="FUELTV.pt@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",Fuel TV (1080p)
@@ -208,7 +216,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=844
 #EXTINF:-1 group-title="Undefined",AfroLandTV WW (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=15235
 #EXTINF:-1 group-title="Undefined",Afterwork TV
-https://jmp2.uk/plu-68c01954f89c82a68b084a50.m3u8
+https://jmp2.uk/plu-6915e15ea570568f53438feb.m3u8
 #EXTINF:-1 group-title="Undefined",AFV with Alfonso Ribeiro (1080p)
 https://d1o5yzickeowpa.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Al Ritmo del Jaripeo (720p)
@@ -224,7 +232,7 @@ https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Undefined",Alice Nevers
 https://jmp2.uk/plu-66d71f8ee5de930008016f83.m3u8
 #EXTINF:-1 group-title="Undefined",Alien Nation (1080p)
-https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+https://linear-888.frequency.stream/mt/vizio/888/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Alien Nation by DUST (1080p)
 https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",All Babies Channel (720p)
@@ -250,11 +258,11 @@ https://d2uij1im12h4nm.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",America's Boating Channel (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",America's Funniest Home Videos (720p)
-https://jmp2.uk/plu-69143e3abb69fb3258ba4944.m3u8
+https://jmp2.uk/plu-69143e7b0d121b44adfa1ff9.m3u8
 #EXTINF:-1 group-title="Undefined",America's Got Talent (1080p)
 https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
 #EXTINF:-1 group-title="Undefined",America's Next Top Model
-https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
+https://jmp2.uk/plu-6464cc595a0cd500088c7749.m3u8
 #EXTINF:-1 group-title="Undefined",American Crimes (720p)
 https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 #EXTINF:-1 group-title="Undefined",American Idol (1080p)
@@ -278,7 +286,7 @@ https://linear-306.frequency.stream/mt/vizio/306/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Archivos Extraterrestres
 https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
 #EXTINF:-1 group-title="Undefined",Arthur
-https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
+https://jmp2.uk/plu-6482f27c17f5e10008c10ff0.m3u8
 #EXTINF:-1 group-title="Undefined",Artist of the Year (1080p) [Geo-blocked]
 https://d3cm8xyrjwa22p.cloudfront.net/30504/88896035/hls/master.m3u8?ads.xumo_channelId=88896035
 #EXTINF:-1 group-title="Undefined",Assombrações
@@ -301,7 +309,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=13411
 #EXTINF:-1 group-title="Undefined",AWSN (720p)
 https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
 #EXTINF:-1 group-title="Undefined",Ax Men (720p)
-https://d3kx0b11i5yg0n.cloudfront.net/v1/aenetworks_axmen_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+https://bcadcc64.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BeE1lbl9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Ax Men Die Holzfäller (720p)
 https://jmp2.uk/plu-6914913274601d957ae35565.m3u8
 #EXTINF:-1 group-title="Undefined",Axel!
@@ -359,7 +367,7 @@ https://d104o6d3ybbtr3.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Beach Day (720p)
 https://jmp2.uk/plu-68bb162bb3900870ec364cbe.m3u8
 #EXTINF:-1 group-title="Undefined",Beauty and the Beast
-https://jmp2.uk/plu-6512d6a0a1217e00092c1214.m3u8
+https://jmp2.uk/plu-6512ec7a2ce8e40008bdb433.m3u8
 #EXTINF:-1 group-title="Undefined",Ben Azelart (1080p)
 https://424e6d3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQmVuQXplbGFydF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Best Action TV (1080p)
@@ -369,9 +377,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/98
 #EXTINF:-1 group-title="Undefined",Best of Bobby Flay by Food Network (720p)
 https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8
 #EXTINF:-1 group-title="Undefined",Best of Magnus Midtbø
-https://jmp2.uk/plu-69d7a0d0f57dc59a5f928fb2.m3u8
+https://jmp2.uk/plu-69d7a0dc805a68fcc92037b7.m3u8
 #EXTINF:-1 group-title="Undefined",Best of The Drew Barrymore Show
-https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
+https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
 #EXTINF:-1 group-title="Undefined",Best Thriller TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",BET Pluto TV
@@ -425,7 +433,7 @@ https://streams2.sofast.tv/vglive-sk-373192/index.m3u8
 #EXTINF:-1 group-title="Undefined",Bonanza Billies TV (1080p)
 https://tricoast-tv-bonanzabilliestv-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Bondi Rescue (720p)
-https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8
+https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
 #EXTINF:-1 group-title="Undefined",Bondi Vet (720p)
 https://wtfn-bondivet-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Born to Kill (1080p)
@@ -441,7 +449,7 @@ https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Undefined",Breaking News (1080p) [Geo-blocked]
 https://amg02703-amg02703c18-vizio-us-6423.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Breaking News by LeadStory (1080p)
-https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
+https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Bring It! (1080p) [Geo-blocked]
 https://pb-46i4usnz2g1z1.akamaized.net/Bring_It.m3u8
 #EXTINF:-1 group-title="Undefined",British Screen Classics (1080p)
@@ -485,7 +493,7 @@ https://amg00658-amg00658c185-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playl
 #EXTINF:-1 group-title="Undefined",Captain Tsubasa
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 #EXTINF:-1 group-title="Undefined",Car Chase (720p)
-https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8
+https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
 #EXTINF:-1 group-title="Undefined",Cartoon Classics (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",Cash in the Attic (720p)
@@ -493,7 +501,7 @@ https://fifth-season-cashintheattic-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Casos de la Dra. Polo
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 #EXTINF:-1 group-title="Undefined",Catfish
-https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8
+https://jmp2.uk/plu-625eaebc2a73a00007d3f855.m3u8
 #EXTINF:-1 group-title="Undefined",CATFISH TV (720p)
 https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
 #EXTINF:-1 group-title="Undefined",Caught on Tape (1080p) [Geo-blocked]
@@ -537,9 +545,9 @@ https://amg35360-amg35360c2-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlis
 https://videostream.jpbgdigital.com/CFJCTV.m3u8
 #EXTINF:-1 group-title="Undefined",CG Grandi Film (720p)
 https://cgentertainment-cgtv-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Ch4Teen (1080p)
-#EXTVLCOPT:http-referrer=https://ch14.tv
-https://ch14.tv/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Ch4Teen (1080i)
+#EXTVLCOPT:http-referrer=http://ch14.tv
+https://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Chaco TV (720p) [Not 24/7]
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Challenge Accepted (1080p)
@@ -553,13 +561,13 @@ https://jmp2.uk/plu-60dc6937b450ad0007377e48.m3u8
 #EXTINF:-1 group-title="Undefined",Charmed: Jovens Bruxas
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 #EXTINF:-1 group-title="Undefined",Cheaters
-https://jmp2.uk/plu-651e719b575f660008d2e629.m3u8
+https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
 #EXTINF:-1 group-title="Undefined",Cheers
 https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
 #EXTINF:-1 group-title="Undefined",Chef vs Chef by Food Network (720p)
 https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8
 #EXTINF:-1 group-title="Undefined",Cherif
-https://jmp2.uk/plu-66a8c7aefe11e500085b1587.m3u8
+https://jmp2.uk/plu-66d71c656b63480008cf0427.m3u8
 #EXTINF:-1 group-title="Undefined",Chip & Jo: Feels Like Home by Magnolia Network (720p)
 https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
 #EXTINF:-1 group-title="Undefined",Christmas 365
@@ -595,7 +603,7 @@ https://cdn4.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd
 #EXTINF:-1 group-title="Undefined",CNN HEADLINES
 https://jmp2.uk/plu-5421f71da6af422839419cb3.m3u8
 #EXTINF:-1 group-title="Undefined",CNN Headlines International
-https://jmp2.uk/plu-66c45b36a72e7b0008a2b291.m3u8
+https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8
 #EXTINF:-1 group-title="Undefined",CNN Noticias
 https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
 #EXTINF:-1 group-title="Undefined",CNN Originals
@@ -617,7 +625,7 @@ https://d1nu0yp2dagil0.cloudfront.net/Conan_OBrien_TV.m3u8
 #EXTINF:-1 group-title="Undefined",Conciertos por Stingray (720p)
 https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
 #EXTINF:-1 group-title="Undefined",Confess by Nosey
-https://jmp2.uk/plu-634ee8f95aa9870007248333.m3u8
+https://jmp2.uk/plu-6514346fa76507000887d441.m3u8
 #EXTINF:-1 group-title="Undefined",Construcciones Asombrosas
 https://jmp2.uk/plu-673249433a61d400087a51ed.m3u8
 #EXTINF:-1 group-title="Undefined",Cook's Country Channel (1080p) [Geo-blocked]
@@ -643,7 +651,7 @@ https://d2tyl7oi9wycxs.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Craftsy (1080p)
 https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",CraftsyTV (1080p)
-https://d2lgb18e46c3by.cloudfront.net/playlist.m3u8
+https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Creator TV (1080p) [Geo-blocked]
 https://amg16070-amg16070c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Crime & Justice (1080p)
@@ -735,11 +743,11 @@ https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
 #EXTINF:-1 group-title="Undefined",Desafío Super Humanos
 https://jmp2.uk/plu-6495af324c014a000842e923.m3u8
 #EXTINF:-1 group-title="Undefined",DFB Play TV (720p)
-https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
+https://jmp2.uk/plu-66461f433d173b000805eeeb.m3u8
 #EXTINF:-1 group-title="Undefined",Dhar Mann TV (1080p)
 https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Diagnosis Murder
-https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
+https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
 #EXTINF:-1 group-title="Undefined",Diane femme flic
 https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8
 #EXTINF:-1 group-title="Undefined",Die fliegenden Ärzte
@@ -773,7 +781,7 @@ https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
 #EXTINF:-1 group-title="Undefined",Dollars
 https://jmp2.uk/plu-68f0fa98fae18f8db62a920a.m3u8
 #EXTINF:-1 group-title="Undefined",Dominance FC TV
-https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8
+https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
 #EXTINF:-1 group-title="Undefined",Don Matteo (720p)
 https://jmp2.uk/plu-686d004094a028da3aac8cb0.m3u8
 #EXTINF:-1 group-title="Undefined",Donut (1080p) [Geo-blocked]
@@ -787,7 +795,7 @@ https://jmp2.uk/plu-697c9bc2a7ce9d5a3d83504a.m3u8
 #EXTINF:-1 group-title="Undefined",Dr. G Medical Examiner (1080p)
 https://d3gjnizphdm6xi.cloudfront.net/Dr_G_Medical_Examiner_SONO15.m3u8
 #EXTINF:-1 group-title="Undefined",Dr. Quinn Medicine Woman
-https://jmp2.uk/plu-68f0f71bb45f4453e05c0863.m3u8
+https://jmp2.uk/plu-68f0f7dea362b63a8df50bd4.m3u8
 #EXTINF:-1 group-title="Undefined",Dragon Ball
 https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
 #EXTINF:-1 group-title="Undefined",Dragon Ball Z
@@ -886,20 +894,20 @@ https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8
 https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8
 #EXTINF:-1 group-title="Undefined",Faites entrer l'accusé
 https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8
+#EXTINF:-1 group-title="Undefined",FaithNFreedomTV (720p)
+https://a-cdn.klowdtv.com/live3/fnf_720p/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Family Feud (1080p)
 https://amg00145-amg00145c23-samsung-gb-7654.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Family Feud Classic (1080p)
 https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Family Ties
-https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
-#EXTINF:-1 group-title="Undefined",Fangene på Fortet
-https://jmp2.uk/plu-65cb8bd911ced7000820bff2.m3u8
+https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
 #EXTINF:-1 group-title="Undefined",Farmland TV (720p)
 https://jmp2.uk/plu-663a15d7cb3ea10008edac88.m3u8
 #EXTINF:-1 group-title="Undefined",Feva Music (1080p)
 https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8
-#EXTINF:-1 group-title="Undefined",FGTeeV (1080p) [Geo-blocked]
-https://amg00285-amg00285c4-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00285-amg00285c4-amgplt0022/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",FGTEEV (1080p) [Geo-blocked]
+https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Fight TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",Filmelier TV
@@ -923,13 +931,13 @@ https://d21izs34d0y5tl.cloudfront.net/Fireplace_4K_SONO20.m3u8
 #EXTINF:-1 group-title="Undefined",Fixers and Flippers
 https://jmp2.uk/plu-62fb62081afad500077e915e.m3u8
 #EXTINF:-1 group-title="Undefined",Flashpoint
-https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8
+https://jmp2.uk/plu-66a10eacfe11e500084c6925.m3u8
 #EXTINF:-1 group-title="Undefined",Flipper
 https://jmp2.uk/plu-68d277fb12bf71eaaed3e9f1.m3u8
 #EXTINF:-1 group-title="Undefined",Flipper: The New Adventures
-https://jmp2.uk/plu-698ddd6ec144dcc29b866133.m3u8
+https://jmp2.uk/plu-698dde17c7f3f49e64e3414a.m3u8
 #EXTINF:-1 group-title="Undefined",Flipping Nation (720p)
-https://d21mkcgtx2frod.cloudfront.net/v1/aenetworks_flippingnation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+https://d3795432.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GbGlwcGluZ05hdGlvbl9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",FloRacing 24/7 (1080p)
 https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Fluss Monster (1080p)
@@ -1001,7 +1009,7 @@ https://linear-325.frequency.stream/mt/vizio/325/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Game & Fish TV (1080p)
 https://d32bh11mbsmi60.cloudfront.net/Game_Fish_TV.m3u8
 #EXTINF:-1 group-title="Undefined",Gardening with Monty Don (1080p)
-https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
+https://all3media-gardening-with-monty-don-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Gata salvaje
 https://jmp2.uk/plu-69c5100c3d2597380f0f6422.m3u8
 #EXTINF:-1 group-title="Undefined",ge Fast (1080p)
@@ -1149,11 +1157,11 @@ https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 #EXTINF:-1 group-title="Undefined",History Channel: Xtreme Outdoor (1080p)
 https://787fc879.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU2tpbGxzQW5kVGhyaWxsc19ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",History Hunters (1080p)
-https://amg00841-amg00841c9-samsung-gb-3032.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhunterssamsung-samsunggb/playlist.m3u8
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Hit Sitcoms (720p)
 https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
 #EXTINF:-1 group-title="Undefined",Hoarders (720p)
-https://8f2546fe.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0hvYXJkZXJzX0hMUw/playlist.m3u8
+https://eada4a55.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9Ib2FyZGVyc19ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Hoarders by A&E (720p)
 https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Home Cooking by Food Network
@@ -1175,7 +1183,7 @@ https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Horror TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",Horse & Country (720p)
-https://jmp2.uk/plu-671b4e8bc7626f00089b7194.m3u8
+https://jmp2.uk/plu-671b4e47daad7f000868b840.m3u8
 #EXTINF:-1 group-title="Undefined",Hot Ones (1080p)
 https://d532j1ra4v4q9.cloudfront.net/SONO65.m3u8
 #EXTINF:-1 group-title="Undefined",Hot Wheels Action (1080p)
@@ -1205,11 +1213,11 @@ https://jmp2.uk/plu-68c82005be767928b4a8ef0c.m3u8
 #EXTINF:-1 group-title="Undefined",I Survived… (720p)
 https://d1ewp56x5c748d.cloudfront.net/v1/aenetworks_i_survived_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",iCarly
-https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
+https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
 #EXTINF:-1 group-title="Undefined",iCarly TV
 https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8
 #EXTINF:-1 group-title="Undefined",Ice Road Truckers (720p)
-https://d27c7ivrw07fxl.cloudfront.net/v1/aenetworks_iceroadtruckers_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Icon Film Channel (720p)
 https://iconfilmsdistribution-iconfilmchannelclassics-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Icons Unearthed+
@@ -1233,7 +1241,7 @@ https://jmp2.uk/plu-62e926429cb58900088f951f.m3u8
 #EXTINF:-1 group-title="Undefined",Incroyables Transformations (720p)
 https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8
 #EXTINF:-1 group-title="Undefined",Inside Outside (720p)
-https://all3media-international-insideoutside-2-gb.samsung.wurl.tv/playlist.m3u8
+https://all3media-international-insideoutside-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Inspetor Bugiganga
 https://jmp2.uk/plu-69162648d03565d6c8c8df97.m3u8
 #EXTINF:-1 group-title="Undefined",INTER 24/7 (1080p)
@@ -1261,9 +1269,9 @@ https://amg27048-amg27048c3-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlis
 #EXTINF:-1 group-title="Undefined",Jack Hanna (1080p)
 https://amg00111-hearstmediafast-amg00111c1-samsung-gb-2186.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-jackhanna-samsunggb/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Jade Fever
-https://jmp2.uk/plu-660d6b3caec9680008f8debe.m3u8
+https://jmp2.uk/plu-660d6b00635c75000828aa27.m3u8
 #EXTINF:-1 group-title="Undefined",JAG
-https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
+https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
 #EXTINF:-1 group-title="Undefined",Jail (1080p)
 https://langleyproductions-jail-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Jakt är Jakt
@@ -1281,7 +1289,7 @@ https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/
 #EXTINF:-1 group-title="Undefined",JoJo's Bizarre Adventure (1080p)
 https://d2kqaqstkr42e1.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",JoJo’s Bizarre Adventure
-https://jmp2.uk/plu-66c7982f6838ee00085f0d24.m3u8
+https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
 #EXTINF:-1 group-title="Undefined",JTV Jewelry Love (1080p) [Geo-blocked]
 https://jewelrytv-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Jupiter TV (1080p)
@@ -1341,7 +1349,7 @@ https://jmp2.uk/plu-657c0954dfed030008d82ea1.m3u8
 #EXTINF:-1 group-title="Undefined",KVF (720p) [Not 24/7]
 https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",La Familia del Barrio
-https://jmp2.uk/plu-668c566d08d5490008075948.m3u8
+https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
 #EXTINF:-1 group-title="Undefined",La Fea Más Bella (1080p)
 https://linear-575.frequency.stream/mt/vizio/575/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",La fiebre del Jade
@@ -1439,11 +1447,11 @@ https://jmp2.uk/plu-6682bd9b8768aa0008f25be5.m3u8
 #EXTINF:-1 group-title="Undefined",Los Padrinos Mágicos
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
 #EXTINF:-1 group-title="Undefined",Los Pitufos
-https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8
+https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
 #EXTINF:-1 group-title="Undefined",Love 2 Hate TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",Love Boat
-https://jmp2.uk/plu-65cb76723a116800079e1fc3.m3u8
+https://jmp2.uk/plu-654a4cc3f91d250008ac11f6.m3u8
 #EXTINF:-1 group-title="Undefined",Love Island Danmark
 https://jmp2.uk/plu-61c19bfb3bf4940007804d32.m3u8
 #EXTINF:-1 group-title="Undefined",Love Island UK
@@ -1489,7 +1497,7 @@ https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
 #EXTINF:-1 group-title="Undefined",Masterchef UK (1080p)
 https://d1nn4ic5ci0eid.cloudfront.net/MasterchefUKPoweredbyBanijay_GB.m3u8
 #EXTINF:-1 group-title="Undefined",Matched Married Meet (1080p) [Geo-blocked]
-https://pb-zrn69przatyzi.akamaized.net/Matched_Married_Meet.m3u8
+https://amg00276-amg00276c4-vizio-us-4058.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Matched Married Meet by Lifetime (720p)
 https://jmp2.uk/plu-6887a86be3703b7d42b3eca3.m3u8
 #EXTINF:-1 group-title="Undefined",Matlock
@@ -1509,7 +1517,7 @@ https://jmp2.uk/plu-690cb9140d121b44ad925ac9.m3u8
 #EXTINF:-1 group-title="Undefined",MeatEater (1080p)
 https://linear-934.frequency.stream/mt/vizio/934/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Mechplus (720p)
-https://mechtvltd-mechplus-1-se.samsung.wurl.tv/playlist.m3u8
+https://mechtvltd-mechplus-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Mediano TV
 https://jmp2.uk/plu-66952e1ed512590008867b5a.m3u8
 #EXTINF:-1 group-title="Undefined",Medical Detectives (720p)
@@ -1539,7 +1547,7 @@ https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63d
 #EXTINF:-1 group-title="Undefined",Military Heroes (1080p)
 https://d25lps4m0jar17.cloudfront.net/Military_Heroes.m3u8
 #EXTINF:-1 group-title="Undefined",Million Dollar Dream Home (1080p) [Geo-blocked]
-https://amg02134-amg02134c1-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg02134-amg02134c1-amgplt0022/playlist.m3u8
+https://pb-tc6lcocnesxgi.akamaized.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Million Dollar Listing Vault (1080p)
 https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Undefined",Miramax Channel (1080p) [Geo-blocked]
@@ -1558,13 +1566,13 @@ https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
 #EXTINF:-1 group-title="Undefined",MO Channel (720p)
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 group-title="Undefined",Modern Marvels (720p)
-https://jmp2.uk/plu-6578878132c1b300089aa005.m3u8
+https://e5fd8762.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Modern Marvels by HISTORY (720p)
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
 #EXTINF:-1 group-title="Undefined",Modern Marvels Presented by History (720p) [Geo-blocked]
 https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",MODUS Super Series Darts (720p)
-https://jmp2.uk/plu-67063e78b2ffb10008195d08.m3u8
+https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8
 #EXTINF:-1 group-title="Undefined",Mojitv (720p)
 https://odmedia-mojitv-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Mona The Vampire
@@ -1590,13 +1598,13 @@ https://pb-tc97nokxg85ph.akamaized.net/Mountain_Men.m3u8
 #EXTINF:-1 group-title="Undefined",Mr. Beast (1080p)
 https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",MrBeast (1080p)
-https://d1uoaa28av70en.cloudfront.net/playlist.m3u8
+https://linear-647.frequency.stream/mt/vizio/647/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",MSG SportsZone (1080p)
 https://37ed58e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",MTRSPT 1 (1080p)
-https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+https://amg02873-kravemedia-mtrspt1-samsungnz-k70ln.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",MTV Catfish (720p)
-https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
+https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
 #EXTINF:-1 group-title="Undefined",MTV Catfish TV Show (720p)
 https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
 #EXTINF:-1 group-title="Undefined",MTV Dating (720p)
@@ -1604,13 +1612,13 @@ https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
 #EXTINF:-1 group-title="Undefined",MTV Pluto TV
 https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
 #EXTINF:-1 group-title="Undefined",MTV Reality (720p)
-https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
+https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
 #EXTINF:-1 group-title="Undefined",MTV Ridiculousness (720p)
-https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
+https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
 #EXTINF:-1 tvg-id="MTVSub.fi@SD" tvg-logo="https://i.imgur.com/rmV8LO1.png" group-title="Undefined",MTV Sub (720p)
 https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:-1 group-title="Undefined",MTV Teen Mom (720p)
-https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8
+https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8
 #EXTINF:-1 group-title="Undefined",Mundo Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",Murder She Wrote (1080p)
@@ -1675,6 +1683,8 @@ https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
 https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 group-title="Undefined",Nesfejahan (720p)
 https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Netlink TV (720p)
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="Undefined",NEW KMOVIES (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus
 #EXTINF:-1 group-title="Undefined",NEW KPOP (1080p)
@@ -1688,7 +1698,7 @@ https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 #EXTINF:-1 group-title="Undefined",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
 #EXTINF:-1 group-title="Undefined",Nina
-https://jmp2.uk/plu-691c5b2e74baa89ef7230baf.m3u8
+https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8
 #EXTINF:-1 group-title="Undefined",Ninja Warrior (1080p)
 https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Nitro TV (1080p)
@@ -1718,7 +1728,7 @@ https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
 #EXTINF:-1 tvg-id="NowMusicAZ.az@SD" group-title="Undefined",Now Music AZ
 https://v2.catcast.tv/content/48694/seg-25410024-v1-a1/index.m3u8
 #EXTINF:-1 group-title="Undefined",Numb3rs
-https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
+https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
 #EXTINF:-1 group-title="Undefined",Numbers
 https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
 #EXTINF:-1 group-title="Undefined",O Homem que veio do Céu
@@ -1786,7 +1796,7 @@ https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
 #EXTINF:-1 group-title="Undefined",PickleballTV (1080p) [Geo-blocked]
 https://pb-p82n52ztxtyz8.akamaized.net/PickleballTV.m3u8
 #EXTINF:-1 group-title="Undefined",Pimp My Ride
-https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
+https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
 #EXTINF:-1 group-title="Undefined",PJ
 https://jmp2.uk/plu-692ec71425eaa17b6daf2a11.m3u8
 #EXTINF:-1 group-title="Undefined",Plato del Dia by elGourmet (720p)
@@ -1798,7 +1808,7 @@ https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV 80's Action
 https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Action
-https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
+https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Anime
 https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Cine Acción
@@ -1818,7 +1828,7 @@ https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV History
 https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Horror
-https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Humor
 https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Junior (720p)
@@ -1830,7 +1840,7 @@ https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Kids Spain (720p)
 https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Paranormal
-https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
+https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Reality
 https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Romance
@@ -1842,11 +1852,11 @@ https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Series Sci-Fi
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Snooker 900 (720p)
-https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
+https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Thrillers
 https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV True Crime
-https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
+https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
 #EXTINF:-1 group-title="Undefined",Pluto TV Westerns
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 group-title="Undefined",Pocoyo (1080p)
@@ -1869,7 +1879,7 @@ https://signatureentertainment-popflix-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",PORTATV
 https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
 #EXTINF:-1 group-title="Undefined",Power Rangers (1080p) [Geo-blocked]
-https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8
+https://amg00461-eone-amg00461c2-vizio-us-5753.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Powertube TV (1080p)
 https://streams2.sofast.tv/powertube_live/master.m3u8
 #EXTINF:-1 group-title="Undefined",Primeval
@@ -1925,7 +1935,7 @@ https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Rauchende Colts
 https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
 #EXTINF:-1 group-title="Undefined",Rawhide
-https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
+https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
 #EXTINF:-1 group-title="Undefined",Rawhide Tausend Meilen Staub
 https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
 #EXTINF:-1 group-title="Undefined",RCM (1080p)
@@ -1943,15 +1953,13 @@ https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Undefined",Reality Awards
 https://jmp2.uk/plu-692ec3a76f84242a60f75f59.m3u8
 #EXTINF:-1 group-title="Undefined",Realmadrid TV (720p)
-https://jmp2.uk/plu-660d7232635c75000828c95a.m3u8
+https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
 #EXTINF:-1 group-title="Undefined",Rebelde (1080p)
 https://linear-335.frequency.stream/mt/vizio/335/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Red Shoe Diaries
 https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
-#EXTINF:-1 group-title="Undefined",Red Uno Santa Cruz (1080p)
-http://190.181.18.82:4111/play/a006/index.m3u8
 #EXTINF:-1 group-title="Undefined",Relic Hunter
-https://jmp2.uk/plu-68e3b6112baff9f069d02540.m3u8
+https://jmp2.uk/plu-67d9836ba1609bdb523f0c9d.m3u8
 #EXTINF:-1 group-title="Undefined",Renegade
 https://jmp2.uk/plu-699c1998d5b4d030870ff998.m3u8
 #EXTINF:-1 group-title="Undefined",Reno Duo
@@ -1959,7 +1967,7 @@ https://jmp2.uk/plu-62fb61992443200008c59aef.m3u8
 #EXTINF:-1 group-title="Undefined",Reno Rehab
 https://jmp2.uk/plu-62fb6057f923fb0007eafb24.m3u8
 #EXTINF:-1 group-title="Undefined",Retake E-sport Live (720p)
-https://jmp2.uk/plu-69a162eb762ae48b4302fb7c.m3u8
+https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
 #EXTINF:-1 group-title="Undefined",Revive Gran Hermano
 https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
 #EXTINF:-1 group-title="Undefined",Revry Europe (Frequency backend) (720p)
@@ -1987,13 +1995,13 @@ https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
 #EXTINF:-1 group-title="Undefined",Romance 365
 https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
 #EXTINF:-1 group-title="Undefined",Rookie Blue
-https://jmp2.uk/plu-63fe2ec4dff38e000835f786.m3u8
+https://jmp2.uk/plu-6745f0643a61d40008a61510.m3u8
 #EXTINF:-1 group-title="Undefined",Rookie Blue: Policías Novatos
 https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
 #EXTINF:-1 group-title="Undefined",Rotterdam Podium TV (480p)
 http://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Rovr Pets (1080p) [Geo-blocked]
-https://pb-vbv1er6nemjg9.akamaized.net/Rovr_Pets.m3u8
+https://amg00111-amg00111c3-vizio-us-7695.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Royalworld Germany (720p)
 https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Rugrats
@@ -2061,7 +2069,7 @@ https://jmp2.uk/plu-6245d3792792150007e20634.m3u8
 #EXTINF:-1 group-title="Undefined",SFT Combat (720p)
 https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8
 #EXTINF:-1 group-title="Undefined",Shades of Black (1080p) [Geo-blocked]
-https://pb-mn2nw2xfj5wcy.akamaized.net/Shades_of_Black.m3u8
+https://fuseaaaaa-fusebeats-vizio-gmqya.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Shark Tank Latino (1080p)
 https://d1dclv062w81ra.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ShirvanTV.az@SD" group-title="Undefined",Shirvan TV
@@ -2095,7 +2103,7 @@ https://d19m5s4kmtxvps.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="Undefined",SLVR (1080p)
 https://dnwqx9ivbd7ay.cloudfront.net/bbb/samshow/samshow.m3u8
 #EXTINF:-1 group-title="Undefined",Smithsonian Channel Selects
-https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
 #EXTINF:-1 group-title="Undefined",Smosh (1080p)
 https://d2awq8rdysdj3u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Smurf TV (720p)
@@ -2127,13 +2135,13 @@ https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp
 #EXTINF:-1 group-title="Undefined",South Park
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 #EXTINF:-1 group-title="Undefined",South Park: Cartman Collection
-https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8
+https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
 #EXTINF:-1 group-title="Undefined",South Park: Kenny Collection
 https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
 #EXTINF:-1 group-title="Undefined",South Park: Kyle Collection
-https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
+https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
 #EXTINF:-1 group-title="Undefined",South Park: Stan Collection
-https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
+https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
 #EXTINF:-1 group-title="Undefined",Space Series (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",Sparkle Movies (720p)
@@ -2257,7 +2265,7 @@ https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Tandem
 https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8
 #EXTINF:-1 group-title="Undefined",Tareq Taylor's Nordic Cookery
-https://jmp2.uk/plu-63c96203636b7e0007d35090.m3u8
+https://jmp2.uk/plu-63c95451d3485c0007734f55.m3u8
 #EXTINF:-1 group-title="Undefined",Tastemade Casa (720p)
 https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8
 #EXTINF:-1 group-title="Undefined",Tastemade Home (1080p)
@@ -2269,7 +2277,7 @@ https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8
 #EXTINF:-1 group-title="Undefined",Tastemade Viajes (720p)
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
 #EXTINF:-1 group-title="Undefined",Taxi
-https://jmp2.uk/plu-66b22b748561260008dae057.m3u8
+https://jmp2.uk/plu-66b22c9aa79dea0008cee4a9.m3u8
 #EXTINF:-1 group-title="Undefined",Team Liquid (1080p)
 https://d3qzt5cx2j8lfl.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Team USA TV (1080p)
@@ -2307,7 +2315,7 @@ https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8
 #EXTINF:-1 group-title="Undefined",That's Rock (720p)
 https://jmp2.uk/plu-69ef5682980899a9edf1a884.m3u8
 #EXTINF:-1 group-title="Undefined",The 4400
-https://jmp2.uk/plu-69afecd4686531d5faac86e2.m3u8
+https://jmp2.uk/plu-69afeca6ac36b147e7ef33a7.m3u8
 #EXTINF:-1 group-title="Undefined",The Bionic Woman (720p)
 https://jmp2.uk/plu-677fb08f5b68381e2dbfd5af.m3u8
 #EXTINF:-1 group-title="Undefined",The Breakfast Club on iHeartRadio (1080p)
@@ -2337,7 +2345,7 @@ https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8
 #EXTINF:-1 group-title="Undefined",The Great British Baking Channel (1080p)
 https://linear-1675.frequency.stream/mt/vizio/1675/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",The Hotel Inspector (1080p)
-https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
+https://amg00654-itv-amg00654c4-samsung-gb-8889.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",The Hunger Games 5 Film Collection (1080p) [Geo-blocked]
 https://amg00353-amg00353c53-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00353-amg00353c53-amgplt0022/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",The Incredible Hulk (720p)
@@ -2355,13 +2363,13 @@ https://jmp2.uk/plu-6989b64839dd847194cadcd7.m3u8
 #EXTINF:-1 group-title="Undefined",The Lone Ranger (1080p)
 https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Undefined",The Martha Stewart Channel (1080p)
-https://d1ob22c3xga9bf.cloudfront.net/Martha_Stewart_.m3u8
+https://amg17902-amg17902c1-amgplt0022.playout.now3.amagi.tv/playlist/amg17902-amg17902c1-amgplt0022/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",The Nanny & Mr Sheffield A Fine Romance
-https://jmp2.uk/plu-686d01ad94a028da3aaca6b3.m3u8
+https://jmp2.uk/plu-686d0130ed17cf4c902cbd19.m3u8
 #EXTINF:-1 group-title="Undefined",The NBA Channel (720p)
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 #EXTINF:-1 group-title="Undefined",The New Detectives
-https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
+https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
 #EXTINF:-1 group-title="Undefined",The Osbournes (1080p)
 https://d1w2am5ftcgjx5.cloudfront.net/TheOsbournes_GB.m3u8
 #EXTINF:-1 group-title="Undefined",The Outer Limits (720p)
@@ -2437,9 +2445,9 @@ https://pb-57ztemps4qd39.akamaized.net/v1/aenetworks_torque_1/samsungheadend_us/
 #EXTINF:-1 group-title="Undefined",Tortues Ninja TV (720p)
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 #EXTINF:-1 group-title="Undefined",Tosh.0
-https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
+https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
 #EXTINF:-1 group-title="Undefined",Totally Turtles (720p)
-https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
+https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
 #EXTINF:-1 group-title="Undefined",Touched by an Angel
 https://jmp2.uk/plu-68504098f212bedacf63a7e1.m3u8
 #EXTINF:-1 group-title="Undefined",TRACE UK (1080p)
@@ -2533,7 +2541,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7a
 #EXTINF:-1 group-title="Undefined",V2BEAT (720p) [Not 24/7]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Valuetainment (1080p)
-https://videoelephant-limited-valuetainment-1-us.ohlscdn.wurl.tv/playlist.m3u8
+https://wurlvideoelephant.global.transmit.live/hls/69caeadcb02668b94c55d6df/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Van Helsing (1080p)
 https://dfis0p7athkt.cloudfront.net/Van_Helsing.m3u8
 #EXTINF:-1 group-title="Undefined",Vevo '70s & '80s (1080p)
@@ -2746,6 +2754,8 @@ https://a-cdn.klowdtv.com/live3/cars_720p/playlist.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",Western Bound (1080p)
 https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8
+#EXTINF:-1 group-title="Undefined",WFMZ Traffic (720p)
+https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
 #EXTINF:-1 group-title="Undefined",WGN-DT1 (720p)
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:-1 group-title="Undefined",Wheels & Steel (1080p)
@@ -2843,10 +2853,16 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 #EXTINF:-1 group-title="Undefined",上虞1新闻综合 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="Undefined",上虞3新商都 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="Undefined",上虞經濟文化 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="Undefined",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="Undefined",余姚姚江文化 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="Undefined",余姚新闻综合 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 group-title="Undefined",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="Undefined",农安新闻综合 [Geo-blocked]
@@ -2857,12 +2873,18 @@ https://stream2.jlntv.cn/qg/sd/live.m3u8
 https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 group-title="Undefined",四平新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined",嵊州综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 group-title="Undefined",延边新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined",新昌休闲影视 (1080p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 group-title="Undefined",新昌新聞綜合 (1080p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 group-title="Undefined",松原新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/sytv/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined",欧美大片1
+http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="Undefined",欧美大片2
 http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1 group-title="Undefined",武进新闻 (576p) [Not 24/7]
@@ -2895,6 +2917,10 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 group-title="Undefined",荣昌综合 (404p) [Not 24/7]
 http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1 group-title="Undefined",萧山新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="Undefined",蕭山生活頻道 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 group-title="Undefined",辽源新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 #EXTINF:-1 group-title="Undefined",通化新闻 [Geo-blocked]
@@ -2905,5 +2931,7 @@ https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 https://stream2.jlntv.cn/ja/sd/live.m3u8
 #EXTINF:-1 group-title="Undefined",靖江新闻綜合 (480p) [Not 24/7]
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",餘姚姚江文化 (576p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.us@Poland" tvg-logo="https://i.imgur.com/yHUUIIz.png" group-title="Weather",Weather Spy (720p)
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
